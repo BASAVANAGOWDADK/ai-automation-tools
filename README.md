@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ai-tools.png" alt="AI Automation Tools" />
+</p>
+
 # AI Automation Tools
 
 This repository contains a collection of AI-assisted tools and automation scripts designed to simplify tasks, improve workflows, and enhance productivity. These tools are built to address various technical challenges and automate manual processes in development, system administration, and more.
