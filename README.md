@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="" alt="AI Automation Tools" />
-</p>
-
 # AI Automation Tools
 
 ![Banner](ai-tools.png)
